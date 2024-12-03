@@ -19,37 +19,57 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br />
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript" alt="Programming Languages" />
+    <strong>Languages</strong>
+    <br />
+    <img src="https://skillicons.dev/icons?i=python,java,javascript" alt="Languages" />
 </div>
 <div align="center">
     <strong>Backend Frameworks</strong>
     <br />
-    <img src="https://skillicons.dev/icons?i=django,flask,fastapi" alt="Backend Frameworks" />
-</div>
-<div align="center">
-    <strong>Design</strong>
-    <br />
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" alt="Design Tools" />
+    <img src="https://skillicons.dev/icons?i=django,fastapi,flask" alt="Backend Frameworks" />
+    <img src="https://skillicons.dev/icons?i=spring,java" alt="Spring Frameworks" />
 </div>
 <div align="center">
     <strong>Frontend Frameworks</strong>
     <br />
-    <img src="https://skillicons.dev/icons?i=react,express,nextjs,angular" alt="Frontend Frameworks" />
+    <img src="https://skillicons.dev/icons?i=react,angular,nextjs" alt="Frontend Frameworks" />
+</div>
+<div align="center">
+    <strong>Design</strong>
+    <br />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind" alt="Design Tools" />
+</div>
+<div align="center">
+    <strong>Version Control & CI/CD</strong>
+    <br />
+    <img src="https://skillicons.dev/icons?i=git,bitbucket" alt="Version Control Tools" />
+</div>
+<div align="center">
+    <strong>Development Tools</strong>
+    <br />
+    <img src="https://skillicons.dev/icons?i=pycharm,visualstudio,docker,linux,windows" alt="Development Tools" />
 </div>
 <div align="center">
     <strong>Databases</strong>
     <br />
     <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="Databases" />
 </div>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="github-readme-streak-stats-fabrizzioRios.vercel.app/?user=fabrizzioRios&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-fabrizzioRios.vercel.app/api?username=fabrizzioRios&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-fabrizzioRios.vercel.app/api/top-langs/?username=fabrizzioRios&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<div align="center">
+    <strong>Web Servers & Messaging</strong>
+    <br />
+    <img src="https://skillicons.dev/icons?i=nginx,rabbitmq,kafka" alt="Servers and Messaging" />
 </div>
+<div align="center">
+    <strong>Cloud & DevOps</strong>
+    <br />
+    <img src="https://skillicons.dev/icons?i=aws" alt="Cloud Services" />
+</div>
+<div align="center">
+    <strong>Key Concepts</strong>
+    <br />
+    <p>REST API, Microservices, Design Patterns, SOLID</p>
+</div>
+
 <!--
 **fabrizzioRios/fabrizzioRios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
