@@ -19,50 +19,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br />
 <div align="center">
-    <strong>Languages</strong>
-    <br />
-    <img src="https://skillicons.dev/icons?i=python,java,javascript" alt="Languages" />
-</div>
-<div align="center">
-    <strong>Backend Frameworks</strong>
-    <br />
-    <img src="https://skillicons.dev/icons?i=django,fastapi,flask" alt="Backend Frameworks" />
-    <img src="https://skillicons.dev/icons?i=spring,java" alt="Spring Frameworks" />
-</div>
-<div align="center">
-    <strong>Frontend Frameworks</strong>
-    <br />
-    <img src="https://skillicons.dev/icons?i=react,angular,nextjs" alt="Frontend Frameworks" />
-</div>
-<div align="center">
-    <strong>Design</strong>
-    <br />
-    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind" alt="Design Tools" />
-</div>
-<div align="center">
-    <strong>Version Control & CI/CD</strong>
-    <br />
-    <img src="https://skillicons.dev/icons?i=git,bitbucket" alt="Version Control Tools" />
-</div>
-<div align="center">
-    <strong>Development Tools</strong>
-    <br />
-    <img src="https://skillicons.dev/icons?i=pycharm,visualstudio,docker,linux,windows" alt="Development Tools" />
-</div>
-<div align="center">
-    <strong>Databases</strong>
-    <br />
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="Databases" />
-</div>
-<div align="center">
-    <strong>Web Servers & Messaging</strong>
-    <br />
-    <img src="https://skillicons.dev/icons?i=nginx,rabbitmq,kafka" alt="Servers and Messaging" />
-</div>
-<div align="center">
-    <strong>Cloud & DevOps</strong>
-    <br />
-    <img src="https://skillicons.dev/icons?i=aws" alt="Cloud Services" />
+    <img src="https://skillicons.dev/icons?i=python,java,javascript,django,fastapi,flask,spring,react,angular,nextjs" alt="Row 1 Icons" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,git,bitbucket,pycharm,visualstudio,docker" alt="Row 2 Icons" />
+    <img src="https://skillicons.dev/icons?i=linux,windows,mysql,postgres,mongodb,nginx,rabbitmq,kafka,aws" alt="Row 3 Icons" />
 </div>
 <div align="center">
     <strong>Key Concepts</strong>
