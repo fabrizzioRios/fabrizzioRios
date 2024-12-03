@@ -23,6 +23,8 @@
     <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,git,bitbucket,pycharm,visualstudio,docker" alt="Row 2 Icons" />
     <img src="https://skillicons.dev/icons?i=linux,windows,mysql,postgres,mongodb,nginx,rabbitmq,kafka,aws" alt="Row 3 Icons" />
 </div>
+<br />
+
 <div align="center">
     <strong>Key Concepts</strong>
     <br />
