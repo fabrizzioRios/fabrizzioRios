@@ -21,16 +21,19 @@
     <img src="https://skillicons.dev/icons?i=python,java,javascript, typescript" />
 </div>
 <div align="center">
+    Backend Frameworks
     <img src="https://skillicons.dev/icons?i=django,flask,fastapi" />
 </div>
 <div align="center">
+    Design
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" />
-+</div>
-
+</div>
 <div align="center">
+    Frontend Frameworks
     <img src="https://skillicons.dev/icons?i=react,express,nextjs,angular" /><br>
-+</div>
+</div>
 <div align="center">
+    Databases
     <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" /><br>
 +</div>
 
