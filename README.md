@@ -19,11 +19,21 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,java,javascript, typescript" />
-    <img src="https://skillicons.dev/icons?i=django,flask,fastapi" />
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,r" />
-    <img src="https://skillicons.dev/icons?i=react,express,nextjs,angular" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" /><br>
 </div>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=django,flask,fastapi" />
+</div>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" />
++</div>
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,express,nextjs,angular" /><br>
++</div>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" /><br>
++</div>
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
