@@ -15,27 +15,32 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+<br />
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,javascript, typescript" />
+    <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript" alt="Programming Languages" />
 </div>
 <div align="center">
-    Backend Frameworks
-    <img src="https://skillicons.dev/icons?i=django,flask,fastapi" />
+    <strong>Backend Frameworks</strong>
+    <br />
+    <img src="https://skillicons.dev/icons?i=django,flask,fastapi" alt="Backend Frameworks" />
 </div>
 <div align="center">
-    Design
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" />
+    <strong>Design</strong>
+    <br />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" alt="Design Tools" />
 </div>
 <div align="center">
-    Frontend Frameworks
-    <img src="https://skillicons.dev/icons?i=react,express,nextjs,angular" /><br>
+    <strong>Frontend Frameworks</strong>
+    <br />
+    <img src="https://skillicons.dev/icons?i=react,express,nextjs,angular" alt="Frontend Frameworks" />
 </div>
 <div align="center">
-    Databases
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" /><br>
-+</div>
+    <strong>Databases</strong>
+    <br />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="Databases" />
+</div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
