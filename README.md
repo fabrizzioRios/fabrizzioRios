@@ -19,8 +19,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br />
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,javascript,django,fastapi,flask,spring,react,angular,nextjs" alt="Row 1 Icons" />
-    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,git,bitbucket,pycharm,visualstudio,docker" alt="Row 2 Icons" />
+    <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,django,fastapi,flaskreact,angular" alt="Row 1 Icons" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,git,bitbucket,pycharm,visualstudio,docker,kubernetes" alt="Row 2 Icons" />
     <img src="https://skillicons.dev/icons?i=linux,windows,mysql,postgres,mongodb,nginx,rabbitmq,kafka,aws" alt="Row 3 Icons" />
 </div>
 <br />
